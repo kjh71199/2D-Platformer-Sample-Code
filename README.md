@@ -1,17 +1,17 @@
 ##### 2D 플랫포머 포트폴리오의 스크립트입니다.
 
-Attack 폴더 - 
+Attack 폴더 - 몬스터 / 플레이어의 공격 방식 관련 스크립트입니다.
 
-BossStates 폴더 - 
+BossStates 폴더 - 보스 몬스터의 FSM 관련 스크립트입니다.
 
-Damage 폴더 - 
+Damage 폴더 - 몬스터 / 플레이어의 공격 속성과 피격 관련 스크립트입니다.
 
-DetectEnemy 폴더 - 
+DetectEnemy 폴더 - 몬스터의 플레이어 탐지 방식 관련 스크립트입니다.
 
-Environment 폴더 - 
+Environment 폴더 - 배경 및 지형 상호작용 관련 스크립트입니다.
 
-Movement 폴더 - 
+Movement 폴더 - 몬스터 / 플레이어의 이동 방식 관련 스크립트입니다.
 
-Player 폴더 - 
+Player 폴더 - 플레이어의 입력에 따른 액션과 공격, 피격 관련 스크립트입니다.
 
-UI 폴더 - 
+UI 폴더 - 인벤토리 및 UI 관련 스크립트입니다.
